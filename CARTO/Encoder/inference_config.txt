@@ -1,0 +1,3 @@
+--train_batch_size=1
+--train_num_workers=1
+--test_path=datasets/synthetic

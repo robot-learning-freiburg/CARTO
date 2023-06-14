@@ -1,0 +1,47 @@
+# git+https://github.com/kevinleestone/pyrender.git@bf4184ea1079ef328ce0f2a55e52f17520927067
+numpy==1.22.3
+tqdm
+trimesh
+zstandard
+tyro
+shortuuid
+# opencv-python==4.5.5.64
+# opencv-python==4.4.0.46
+opencv-python==4.3.0.36
+wandb
+matplotlib
+plyfile
+opentsne
+seaborn
+open3d
+roma
+pytorch_lightning==1.6.3
+QtPy==2.1.0
+labelcloud # for running the labeling processs
+git+https://github.com/heppert-tri/mesh_to_sdf.git
+git+https://github.com/heppert-tri/urdfpy.git
+git+https://github.com/facebookresearch/pytorch3d.git@stable
+
+# ipython
+# boto3
+# colour-demosaicing
+# scikit-image
+# lxml
+# # pytorch_lightning==1.4.0
+# setuptools==59.5.0
+# scikit-learn
+# fvcore
+# blake3
+# base58
+# rich
+# coloredlogs
+# rtree
+# py3ode==1.2.0.dev15
+# transformers
+# sentence-transformers
+# yapf
+# h5py
+# jupyter
+# plotly
+# zstd
+# torchviz

@@ -1,0 +1,3903 @@
+test:
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_65afac21-3403-46e5-8371-0b2b6879fd81.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_b7a91efe-6563-4124-bb9e-6fd57a9d2643.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_f52764fe-2845-4bcb-b0df-e72a591f4866.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_633418a7-b80d-4f80-83a4-7a18393aabf6.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_95031eac-1f1c-4db4-b9e9-f645feb474d4.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_39a445e9-2af2-4d5c-8b9c-ce262efef808.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_a74fc358-ffca-44fc-a233-b327475d43e2.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_b12d3ce5-f8fb-4fe8-be0c-b636381558ce.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_88fdec92-83fc-4e7f-b405-7c2581d778fc.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_4fda4bee-f62c-4e9b-9669-df7dddb093a2.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_1e56b116-e559-4ec9-8a1e-518bfad0491d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_48433491-bced-4a0b-82ef-511847ee9577.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_2cbecca4-05b9-46c3-8740-567f97210e4a.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_4ef4b2c5-0227-4f3e-ab29-19ed87e1fb40.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_c564c639-aaa0-4f29-9e6c-a6069fb1e3ed.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_f1c5c2f6-1ffb-4652-a8ed-955c053d6f8c.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_8a0c0e13-9fd3-4914-90b6-25439a6fdd6b.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_e46fae85-436d-41c5-82e4-311c252b6205.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_162cf0b1-9dce-4422-9b9b-6adb267bf8f8.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_276e9348-41b4-4f87-94d0-87386cf387fa.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_1df3d393-3dfe-4242-9354-b38fc51977e8.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_f51f2be6-8d91-42ad-b7b0-f2cbcda8a358.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_6e919ed5-cf23-4e95-b741-4fc12b69bd2f.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_ad687e10-70a3-4572-b2b1-5a87e5cb4a01.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_c93d54e0-2c40-4c15-aba1-3fa2cf9abe52.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_235edd27-44aa-4631-9351-8bb11121238a.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_f0e6a909-38b6-475d-b70e-a10bd9ede245.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_e2856095-e70d-4eca-b2d0-a9ad5840847f.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_2b6475a5-d1af-4abb-be2c-c613c3baec99.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_2f76b1f4-409a-4e76-8ad8-706328cbec4b.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_be152a69-a6d1-4e27-8fee-b94b9da8ae24.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_a89d9fc1-175c-4974-b3e3-f0f0ee58f8d0.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_59f0d5c2-3135-4f1a-8750-60caebd41a0e.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_6ab76540-1bd8-4413-a59a-687d9307c51d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_55db03fe-1304-43b6-83ee-9cbf6ec4bc78.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_b3a06737-1b93-43d9-a5ee-33742b002595.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_9037beae-88ad-4780-9423-3b2c56a71015.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_521fe8bc-f28f-4588-9c15-9eb2681e50d8.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_95705abb-1a1f-49d3-b4d1-2a8484e012a0.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_96de6859-1494-42fa-8ef9-f1d47417a016.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_55e56c8f-66ab-4688-b2a1-7424e1d8f0fa.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_b90d611b-e418-4f87-a7ac-b21d79fe76cb.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_f1ce7cce-fe7f-408e-bdaa-4db3a0b9cdba.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_37134008-8459-4f60-b9a5-065a824b09ab.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_e4f6f5cd-d3ef-4ed6-96b7-6dd6f6c327e4.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_4f71e773-0041-4dc5-b858-c8d821c34e5d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_b332a484-3a69-4bc1-998a-f5c143b13411.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_4a3d5240-8b67-45e7-94f4-a22c900f0a41.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_be16287f-6200-4dcc-8a85-dc6892953b7e.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - bdb10a17b04e2adbb7fb7f3ae74b618c_6928e7ff-a33b-4615-9292-b1711663f46c.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_68381eb4-883f-4fd2-b15f-32fa65cf8ae3.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_82b9a200-f837-421c-96dc-84ccedbd439c.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_f92e8104-1efb-480a-b62a-2bd734b10c09.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_6b4b845d-f0c2-49ad-a999-5fcbaeb08c4f.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_8d525e2b-45c0-4e62-9f78-14a3d56a5bbe.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_108d1eb3-73c3-4f97-b026-fd22cf21f4f2.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_3c870b14-ff2c-48dc-808e-69a97efdb392.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_c78e9b42-fad1-4b61-b40f-77b06dfd93ce.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_e08840c9-755c-4317-8905-0bc314a7de2c.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_aac85fdc-78d8-400d-b14f-b66c269ea3ca.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_591ce025-fa48-46a8-9b77-6cee119f18a2.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_b0eb8126-93f5-43df-b362-32c90d363688.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_e1113bb1-0b3b-41a7-bbdf-5a28787286f0.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_b9522e67-5065-48d9-b608-cb2d28e3a661.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_39bc2541-f064-4566-a1c9-8606ed3c4766.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_32b37d39-3321-457a-b036-7138e07802ca.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_f55a6878-5bed-497f-8427-8d1da9155a97.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_766a22be-15e9-4e2c-9ef1-e1525e4f2ffe.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_6ace5346-3722-4cee-b685-3f00c2f383a0.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_502283d9-6040-41e6-a661-7495dd8ee6ba.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_5197dc61-0d94-4fec-8f9c-f9468b9b00f4.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_45d02850-99be-4084-ab8e-5e8dec3fccff.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_ae8e06e7-c0ed-4b53-8255-617063c4cab6.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_331caadc-f578-4b31-ac1f-88d77da4546d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_d34f17d3-1245-40ba-abca-738b63a23de1.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_91ee5f90-16f9-4e82-9e82-389a3402053f.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_8afb52ee-2be4-4da4-9d37-7f2586f260a7.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_31faeb30-997c-4fe1-ba1a-e23c3639b9af.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_c3cbae4b-6b6c-471f-a6e5-8191f9efb8c3.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_967c3d0b-89ce-4443-8c49-96f4639d643d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_f86ab0ec-14d7-489f-9fee-e28c71efb54b.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_f670da57-b88a-44bc-ac23-08c3b52bfd79.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_1cd3af5c-596c-45de-8560-56c23a0470a3.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_84d10aa5-a477-4dd9-9cb8-e290f2d6d070.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_185398d9-afb1-46aa-9b16-561fd7912bca.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_48e926d7-2406-4dc1-965d-d106f9070c0e.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_9e4058f0-1109-4aa1-a1a7-3245074f7ba7.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_d1c588f4-b84a-4560-947f-ea4ea3d087b4.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_5e850d3a-f8c6-4435-bade-9f778c2d0b2e.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_256bf468-7026-415e-af1b-1ac4b64a4746.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_be5c36c5-c5f5-4b3a-bd32-321226d89d71.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_4f712f78-3582-4ab4-8aa2-b1bfdadb4b46.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_0794a9ff-3bc6-4e9f-846f-364823a7d317.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_42ea19b2-b136-4b63-aea4-46c1fdd4dc52.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_d0a47488-2644-4471-a19a-484de46d76b5.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_87ca48d1-26b7-4142-a785-4fb928f16446.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_035a06b3-32fb-4a55-a253-be1378a14a66.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_e4649f6a-dd7f-46a8-9210-61dcad04226c.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_e6603064-a73b-4270-a487-0d73c40b8064.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 4f956e259344d4a3599fb6902c958d23_32eaa967-0c53-4d8d-83e4-c38bb264dd58.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_00235e73-0ccd-46ae-91f6-6b05c3793404.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_70b26644-e890-4d46-9060-453c5a58b4c3.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_e6e6404f-6a5e-4d42-8309-816415bce968.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_c6b89f68-e07b-45a2-9c79-56839f957b32.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_e9e673e8-4c63-4ed7-b494-e7e4a3f446f3.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_c9c70102-559c-43c2-9b51-1a13f32d9db4.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_56ce9e23-dbc6-44aa-ae2e-5b90ca664d52.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_8f3fb38e-aae4-43e4-a2ef-1633b3f70bc4.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_f76cad5c-4eb0-459c-b12d-10e9a76dd2c0.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_d9aa3870-0233-4107-809a-6d7f150d1e9c.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_bb027c83-188c-406b-901f-99501888d782.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_85c993fc-e611-4caa-85f4-bc4bb30f92be.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_44e71a3d-cff2-46da-abd4-a8d6b0f24711.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_f66eeb93-ae19-4c76-a637-20cb4dc5121a.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_ac7e40ff-e622-498d-9fc3-03e07109f4a7.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_3ed0e27b-c972-401a-8c14-338ee0e554d9.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_fcea0035-0efa-4dc1-8619-9d7dbcd04c5f.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_3ff09e05-783f-4e26-bbee-39380f825d8c.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_02b146bc-bdf1-4716-a02e-74a8a317d4c3.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_b643da2d-01ce-4c39-a205-7cc03d46e8e0.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_1eea6edb-2d8c-4720-9505-e3187030939e.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_e4a4bbeb-6f4b-4efd-ad0e-349ed4423cf0.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_4a1197c2-b897-40f9-91e9-351d087b20a2.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_bf6d4929-36ef-4955-8bef-15e7f3950895.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_39ded23b-fd99-478a-8a21-985a375f1367.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_7adde3bd-1b77-40b6-9d1f-d43f2f8e5b07.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_6f333113-83b4-447b-a20c-6ae9c5e05868.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_13566e6e-505d-4fc5-9044-be7fb5d97cfe.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_b32f174f-3f88-4231-834a-0bd463c88899.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_1ddb2563-4690-4e09-af68-4fbc07ddf36d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_0d2ff171-4ba5-4eab-96c2-b32fc04f02df.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_1ae2de77-ec7f-4f2f-8988-bfacc150415d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_7ce5fa49-4451-469f-aa90-ffc8af5a3487.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_429190d0-ab14-41c6-8832-9806c6f9d47d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_23792a28-3292-4750-a91c-8596a096f1b0.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_36030efa-4de0-49db-89ad-b0dc7a58b127.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_2849d646-78a6-4694-869a-f5f873fb0787.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_69bcedd8-400f-49d6-b24d-23568f20ca4d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_92174abf-db79-4b93-98c6-3eab0a5cb3f4.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_6d9ca228-b3ef-4a27-84bd-45779193e8b6.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_c1a1b0f8-3db6-4d3d-9240-59045ffb8217.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_caf715b0-9ba9-4210-bcda-b868c95c4ce5.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_e1586dbe-7bb6-4d2a-b74b-f1d54dcd63cf.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_5417a051-0380-43e5-98a3-0cd81e4a9e8b.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_4564c339-e02d-443a-af36-6010cd136d2c.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_a48c1816-99ec-4601-bab5-b937a543c837.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_a27f0aa2-8cb0-41e7-a884-99331dac40cd.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_42e24453-d2c6-4efa-8b5b-ed166fd0942f.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_4f256a2a-88d3-4c80-9b9d-e8cfff165cbf.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 891f65c773939191c834958aed613724_3e5527e5-7c34-4dfe-8343-b553b003167d.pickle.zstd
+train:
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_d835bca4-19d5-403d-9825-6d9cdf554747.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_c4048861-749d-4d01-836d-de27e3166e00.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_cde14123-815c-44c0-a84f-24150ca3f418.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_c0a39ca3-40ab-4b4b-ba13-9145570c56b0.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_7917bb1e-57b5-4ccc-97a8-d5e7eb7566dc.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_c779b54f-55d4-4248-980c-c307353b9af3.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_dd6697ce-585f-474e-a64e-340b191a96dd.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_c1ac21fa-f7ef-41db-a73c-96e388fb389e.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_6c7bee83-4231-4ded-8f0a-dad44a3d0048.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_d384d669-5131-4851-b70e-5a8fe7a2a217.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_57f3c98b-de9c-49ac-8164-0006fb28eee9.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_178d1d96-86a1-441a-bb0b-48c75204c7ff.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_12e947c4-729b-4624-8521-ddb567a92b83.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_7ebfb41e-f84b-4e52-a17f-c57d252aafef.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_8904b182-0d81-4dbd-932b-bfecd39d2cd7.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_b28c3679-5968-47e1-84c1-dd9a007742bd.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_ff61dd0c-6a6a-4e05-83e2-a6b3106df832.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_33ff4632-ad24-4d2f-ae9b-a89c081e4a72.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_c92bd3da-fc31-4761-b189-764a57147034.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_84d9cffe-1490-4549-9c77-ce8fdeba2928.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_793bd54f-8ce4-4544-824b-fa443c8801e1.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_339f2c31-3d23-47b3-a36e-c38043e5c079.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_fe4f7284-2058-451a-8da2-11b3f1fbcfea.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_9c1de702-938c-45c2-b374-b8e69641e403.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_d9925199-bc8f-4928-9017-d6380f5e4069.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_748e98ca-78fd-4364-98ba-4ab19ab95fd5.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_02364667-c12c-41be-b1c5-5533f3dc2431.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_a2e1c489-657a-4e6a-b183-b8c01732f5ed.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_0e14f45f-1c3b-4b5a-b9e6-27f6269acd7c.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_918d5020-c5cb-494a-8d2c-37c4bfca9c36.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_83c0cf7f-cb8d-4a94-8fa3-9f0dfc03cecf.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_dd5f8204-c0e6-40db-859c-76ce37095c91.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_a1ae9d9d-339b-4541-824d-8aa1587c5040.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_ccddf184-88c4-4f74-b6c9-1d0d54fa1497.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_ced11fae-95c4-4ba8-80b5-4113710695bd.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_53836808-fee8-4217-8501-9f13b6dc1c30.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_1707d606-4f92-4a0a-be04-94ef98e2a132.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_bab3c32e-d268-474e-9a18-26c34d2c840f.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_35dc4be2-be7d-4ef8-a05f-cb92b7125478.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_4da35ef7-62ce-4f50-8eb3-ca975e8a23ee.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_8110b52f-bc65-4f16-8670-6b7ae5289e1a.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_b885de60-06b7-4ba5-b71f-dc9039cc8476.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_08a6c95e-9d50-49be-85ad-4dd7b6ea805b.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_87b4d65c-eb89-46ae-8328-9ee77af9e032.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_c0be41f4-d46f-43c9-b441-f9bd2eaf3449.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_3d288c49-2c54-4971-8d1c-938383773406.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_87ee0d69-e919-4c85-a351-5cb595fffc40.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_0d6abfb7-73c5-4d1c-bf45-962ea9829649.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_41190c5f-1df6-446d-8367-1317f865db62.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - b9f1eeea355194c19941e769880462e7_f21333a5-82c0-4235-9a9d-b04d5bfabdee.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_b14c2312-988f-479c-9e1b-57aaf26c6daf.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_b977e9f9-851e-4061-806f-1d073df50683.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_4413ac81-9e8d-4994-81f4-59849aa46cc5.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_daf1ff9e-6623-405d-8ba2-6ab8b934eb7a.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_d5858d58-6cd8-494b-a109-ad64dbf74c6c.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_8ba7799e-71b6-4d7e-9406-cbae35621e23.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_5277b0e7-4f1e-4b81-9714-69a6224f7b36.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_a1adeaaa-a936-4334-a755-e1cdf87bcf5f.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_42be7726-c0af-47be-81b5-b832924918e2.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_d82035b0-4f21-4e58-afda-a754501c0f51.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_20f5d970-b7d3-4975-a4c3-cd932f1d2e4e.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_535f63c3-548a-409d-a90d-db98ca4c0459.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_59061870-c125-4307-b9a5-5a674b96a726.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_c3252c9f-d734-4c27-8c61-e676e575ef64.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_0285e7aa-7fa2-425c-8773-1cf5d9828090.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_6ffe21f6-dc50-4a4e-b9d2-86fbeb67c881.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_21fc933e-4bd8-403f-8e59-df79a41b6fcc.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_62c3c99b-be45-4b6b-a6d6-5162617a459f.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_ac9c2c25-882c-4a3b-b8e6-2c0ad84a61b1.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_b05f37eb-bbdb-4c90-8e96-41dea2626dc8.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_5f486984-dc86-45fc-ba4f-5cb0eb27585d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_5e66b8ad-3306-4a9f-9d3b-f08903afc04a.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_418aa40c-6cc2-440a-8571-b41b01b57032.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_6f0351d0-21b9-45ae-b23b-36d750973469.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_a41ace58-4c69-48e5-b4e9-1e1d59fa2e16.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_71931a5a-3235-4a62-ab6e-36a13896baec.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_ff87ccdd-aac2-47a0-9adf-8f2c77d03ad8.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_8f027bcc-db24-4650-8cde-76afaf3d3631.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_b4ba35a4-8017-4a95-8f85-dbc7cef88e53.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_45199f06-b83c-45e4-b888-b97a03d968d8.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_c8578f95-a477-4158-9e4e-53ff82808883.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_6b6ba00d-7255-49be-b741-26e32c583e96.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_04a0c6c0-10b4-4d06-84b5-ca079a46399f.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_72812c2f-0253-476f-83f4-94f576874f65.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_ce5476ef-78a8-4fda-b038-f2ebffc3b005.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_f487e2db-9336-4de2-b56a-756bbb25e416.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_838d8b77-ac5a-4b35-8e54-125b547f81a1.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_606972ad-0350-4b38-9652-cf484b43b1a8.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_f09f9115-ee58-443b-9d13-2c239226d603.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_b64c801c-d9b0-4fcb-886c-993903e37771.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_083bf0fb-f9fc-4d05-ae7a-0ad92fdece3f.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_f181e2d8-a7b5-4641-8a5a-87c3cc0c427e.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_ff88cfc6-cf73-497b-b3e8-ae4698e15b27.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_ee0cb8aa-7283-46db-b36c-928a34b0c016.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_87801844-a42c-4f38-9c2d-431c164cfe93.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_960e8072-c41a-4e89-8bea-6a93e57f556d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_5677c433-0836-4c19-8cce-60d437cb8f71.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_3742b935-a80c-4878-899c-ce4d1cc81a44.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_f007dd41-3cb2-4273-bffa-380cbdf0e7fa.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 87bae84777fe8b702bac1bcdfc2402d2_9602aef4-13d1-4a03-bde5-e9c543c9dc14.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_4816e286-c15a-4ec3-991d-a732bdd80b67.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_de5e890a-3314-4678-a957-a12abfcbd68e.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_18b63f37-e6f4-48ca-be1b-c44b179633e7.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_fa1304ee-6149-4c8f-98d3-a40bb931989b.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_f16619e8-eb77-413c-b655-6e6be7b59887.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_cbbe28c6-6c75-42f6-b2e3-7e27f698c837.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_d5b11929-5558-4d81-a353-53046416aa4b.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_c6e27dca-e056-4fe8-aa1c-6a577d4818d9.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_80abca07-3c69-4b06-b526-14ed10353c55.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_7c1d3eba-6ad8-4d14-8f02-f810210d0744.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_bcfdd85c-e44a-42e7-bb3e-ac17ce2f8321.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_bc8e2cdf-5efa-44b3-a3fb-22aacf6485a3.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_59f5641b-ad77-43bd-b528-2e64bd53f02b.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_228e194d-d72f-464a-a401-74a2fdffc915.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_022ea04a-5088-4710-ab6b-112d8f50b45f.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_cf0ab6e3-42ac-466d-b6d8-739fa326946d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_273e85a8-0df5-45bd-8339-ebc4f0fdf3f6.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_aa411bc1-fc8a-491c-a4a3-03c8c7f8e810.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_575c7a89-9aa3-4074-a631-08c836c5a780.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_70097f84-ed87-4f97-9703-37d2e6c5c930.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_6373d213-8f3f-453c-aacc-4d5cdee8359e.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_6050abd9-6228-4371-9f89-4f91d1e4905b.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_8ae52ad9-84e9-46ee-8288-a2716b62a6f3.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_bc529f6a-cb77-4106-8dc2-39d908a86c29.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_94253fb1-9473-4061-b986-41ca5ea8afa4.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_e9121eba-5301-4e0a-8a67-11b7dc5f0c96.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_987457f0-c628-477f-b471-fb19c9c111e4.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_db653d8f-b215-44fc-ac92-1fb309a53313.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_2fdc9736-48bf-48c7-903a-21ca1f690094.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_765e52b6-028a-4e8e-bb5e-b5fde39d06dd.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_f08fc784-6e99-458e-91cf-900b5cac3404.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_0686c705-1389-4175-aa9a-2ecc553c301a.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_db326e60-fbac-4192-9a44-167b68fdac49.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_7c736e37-86c2-442b-ad93-17c3f47ec5a4.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_ae1d0931-dbac-4d97-8d20-887a04fdfacf.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_a49cb5ad-07eb-4f6c-a15c-b25ec0651079.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_6c312e55-f29d-4a4d-bfcd-bd192fc5c38d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_a30b1afd-40ab-4df3-b196-85f293436330.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_e93c5b46-42a6-4754-bf16-38249997f455.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_daab6811-1c3a-4901-8d62-341008d11a2b.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_d51f243f-2744-44f0-b111-f46d880c5b3c.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_7692f960-c633-4b34-b585-5e40a55de721.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_d4d42e02-c214-4300-8e1d-32afed0b2016.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_4d1c274c-87fb-4c57-96c1-39fd7900da3d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_0380d0c8-ef88-442a-b44d-cfbfe2558728.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_5fd2ae0b-ddc9-466b-af9e-07f673fc73e6.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_d5e4d6e9-2cf5-42d8-8b26-31bdfb7621e4.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_460656c4-c4b9-4528-ba7a-7ae14800fc64.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_daf504c6-704d-472d-9c1c-a513e35857e2.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 95bc6fb98624ea3229d75ea275a1cb4e_6438a380-5d22-4ef3-9b63-052a56016107.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_b590c9e5-5523-4e5c-8b50-c4585054478a.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_7cef01c8-f854-4bf3-9ad6-da726b56b385.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_2a0412ad-f493-4b7d-88de-f42f93d88bf9.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_793d0ef5-cfc9-4c1d-9ad0-af325fb384cf.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_7ab9d6ac-65aa-45bc-9f24-e6b5f77c2ba9.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_12808ea7-bea6-4cf8-94a4-4ace559b8d5b.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_f6468c96-1e23-4a1f-88fa-1c5115f8ad4e.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_0ebc0ac5-d613-48be-98db-bdba89c838f5.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_dbaa3866-a4df-4242-b329-ca85a7e0e530.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_e461bfe4-e510-47ec-8e98-cd4a57fca06b.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_0f34d25a-f028-4589-850e-07a2b6376ca1.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_e5dc105b-2cd9-4276-aaab-5c525872ef78.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_30ef14e1-5e4f-4690-812e-8142f7cca8a1.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_e192afc1-dcee-41ef-8073-76e5209bc62f.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_17b27ef7-521f-44ff-87f6-1e279f8f070c.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_90087210-e3ca-4fa5-ae09-4add75a449be.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_c6d2e40d-d38c-438c-94f1-c23d0c6ebb5a.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_982c1139-8b04-42ec-97f9-743ec852502d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_6d9ed98b-89b3-41b8-9f7b-a36490e34e37.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_16e64c0a-6ac0-4913-8607-307648bebf2d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_d71ba860-b3fb-4e5f-a5ba-287efa75a611.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_b373ff2c-18a6-4688-87ea-1172c6b6726b.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_097d2713-1745-4f97-8e26-f98919bcb830.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_d769d1f0-e159-464b-87aa-f0e6f2034176.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_9bc75ef4-ae92-46ed-9873-21128a96c050.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_e5a9d79a-f0b6-46f9-9860-6c03dd14e3a5.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_ed03b382-8518-485f-b081-b3c01cb976ac.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_c568c6d8-a74e-4f16-b4d4-1b436ec4c0c1.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_10baf132-40d0-431d-9d15-30a55305a08c.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_426bfc54-2fb9-4cc7-8cc4-38c64c395f49.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_989e1402-dab5-4854-a652-ad662b5ab6f7.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_e750d14a-48a7-4b8b-bea8-4238b05575c3.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_4d06d930-1ad5-44cf-ae0e-646945a76d3f.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_d9f5593e-10a0-43c7-96d1-deca49cdfc70.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_632b2737-c7fd-4f5e-8853-21ac4258ae84.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_4ea5d6ac-5495-42a5-b004-6e1c5e0f6e6b.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_86ad0408-bdda-48d4-b967-5b40a10104f4.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_e7b04c20-2767-4324-a7e7-c5bb0cfd454c.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_46436223-4138-42b8-b4c4-70596659104a.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_b0d1f73f-5700-4200-97ec-84c9970a0e94.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_a49cdcfc-a44e-4404-9734-226b8a5f4fcc.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_c7033b0b-ad0c-42eb-b617-20f155356d1b.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_18561f45-b047-4214-931f-7f6be72c4951.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_3efe0f02-3008-4d29-9828-d2c05afc05c6.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_c9e24df6-0fe6-4e29-990f-116cc757efb8.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_54a9e140-4c2b-4a21-b79b-c290fe4633d7.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_7eb68910-bc0b-48d1-9b7b-a57a1855bc52.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_f89a8389-748c-4393-a553-b49992f2ffdf.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_ac4228b1-c6ee-429d-96ce-04e377adeb2c.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - df5bd51614d2fbdef114be17e2e7c4b5_95a91b34-446d-454d-be29-b5e56495594d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_cf49ce62-0376-461d-91fa-c1eb5335b980.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_2d714b57-8a09-4b41-8e04-81fc0e2014ee.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_fa4c6424-53d8-42b0-b3dc-c60bbb04bdf3.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_3dae7912-fabf-4116-91bb-f9efa40e3da7.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_8e7fee7b-6d95-4a11-b62c-f2cb3d9a4606.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_f8da5be4-4bef-4341-8094-3e66bc798a7c.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_dcc8dd13-8168-47b9-8f20-96a87f2cda43.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_ba883377-1301-409c-8790-b394f15d6eb2.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_49b002d2-4cba-43dd-84ee-51c64e3e8dcd.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_1064bc10-f9a5-467d-85a8-f68d9f9c739e.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_cdd3a508-7dfc-48c7-9b57-d06c2609293f.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_3e34da27-8933-4e1c-9c80-35170c5c5efd.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_524e1f2a-c6ee-4018-95af-1f84ddc054b0.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_6f24a8a5-e35f-4569-a461-4f3184037726.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_da5a4e93-40fc-485a-b86d-c5f5a0795c28.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_8590e34a-36d3-4faa-9ef2-7a767522131d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_5e351734-6468-450a-844b-b08f518d9767.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_e77e713d-7452-408e-867f-cf40607212c9.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_dea87c1d-1fce-499e-963d-82018f87738d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_2e8d26d7-fa3c-4cf0-9558-b2ec9137bc60.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_b2759a6e-ada3-4b49-b11c-47a5589c8153.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_323c433e-e444-48fa-ac93-fc9ded09e814.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_5e302f7b-4522-4afc-a726-f9257c8419d9.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_00eaade1-8e4c-4a4e-9497-3f5b57828678.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_feaa8737-a4e3-4227-ac1c-27baee5ec453.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_c7c45f2c-88cb-4b66-8036-0bc7519ee598.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_c52c1607-e52d-47cb-be02-2fa03d71954e.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_152db946-a4f2-449f-8d20-38292967a264.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_33812983-27f5-4cf7-b2f5-7a70198df425.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_5127ca4b-ddd8-4d57-a03b-7b88da74074d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_0543a1b8-6748-43d3-8cb5-8923f4b482fc.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_af6f448e-b6c5-4e9d-a3a8-fee70e9a5584.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_4c396e14-29b1-4b85-90f6-972627623c0d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_5dc3e14d-550d-486f-87e8-c6cf752460a5.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_fea3c5e8-5d52-4f00-8eab-10d8bc55134c.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_2aa1d1c9-d5bd-4a64-b97b-d5fca714c75d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_185f4d5d-effd-48d9-9218-c3b81cb86445.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_e0ccc7b9-27d4-4d05-ab92-d577f1396121.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_df5f93d0-8929-4bfa-b464-8abc1b0756b8.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_47bd11c0-0457-4309-ba65-ce170691729b.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_e87488d8-ac46-40e9-a72b-9e4429d20bd1.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_38357956-c997-478b-a2a7-15fee672e8e0.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_752ca4d4-e218-45d0-9287-14cb0a2f1694.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_a8c966e7-f64d-4206-b5c0-34600c918d12.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_fb81bf44-d768-4bf2-b3fa-ab8635b361e7.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_f559332e-a81d-4f58-a926-ca0a87d4ee68.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_1cf9b9e6-8d89-469d-86ae-038dd9e20d64.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_5bb3f31b-458f-499e-a869-887c37545349.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_0de0f2c2-d15e-4950-8ce1-00f7281b5ed2.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c3bb5f3c842a6c2d178e7d331e641179_45a693a9-89af-4833-a5aa-7c361b182b74.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_0aec5ddb-3012-4e46-8b29-31f4dbdde76f.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_c06f62b6-f162-4073-bfa2-6bf20f763790.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_7d5d1777-c7d1-484c-bd7a-eaf506ad31cc.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_10829536-14f0-4cfb-a581-c5e90824c678.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_3026c4a1-bd83-4fb3-b734-9835cd508def.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_e870ed9a-fe75-4f8d-9b5d-e9b9e2f2d908.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_e431ba66-ddb2-448e-a3cd-ef59bd3fc70e.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_6eee8f65-554f-48b5-8502-63506101f9aa.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_768d9ea2-ed83-4926-aaef-26c57e8c14c4.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_0839145a-a562-4419-a96a-717b95161f71.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_cb7e5035-425d-46a0-91cd-9533badffd7e.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_639b98ca-34e0-4268-8e89-c8cfae377394.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_5de7f278-9b0f-4d00-bd82-d0ec37df0cf1.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_040c082e-52bd-494b-9492-ba9b668cc896.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_e3bc85c2-3216-4136-912c-393a2c9eda55.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_828ecfc7-e26e-4683-bb64-a14f9bd87b61.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_10397be0-406c-4e10-9335-b887f0a275d8.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_224696e9-3e98-4fb0-b44b-d6f1230eb350.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_fd7e7779-4f56-4c09-a13d-32d26f00a8e3.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_2de2c844-21ec-4470-a05a-9c25445dd108.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_d85b230e-450b-4630-b7d4-2d32d31cd41d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_814f6cad-7a48-40cb-a32a-64b67f40dbd3.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_2bae1cc5-cffc-4b85-a8ee-ba8e787edfe3.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_4c6bcdce-87ae-4541-b430-2bba22f43eae.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_599900c4-d767-487a-8d76-dcabd61eff8e.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_f071224c-78d1-4e88-9915-ab277bbee48e.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_339b21e8-b4a9-4ae4-b7dc-3ca496434419.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_91fa7b3e-3e8e-430a-8175-490df1c18e6d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_11ee96ce-d346-4836-a842-f34f149e423e.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_0326577d-e38e-4302-bb54-f2fdfb92f7e4.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_d5b107eb-a827-4006-be32-655908036605.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_216bb763-b472-4730-b13b-786463ca6cae.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_d8884f57-1dda-4793-8ad2-d1aa9b4379ce.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_1cdaa463-7783-46ab-865d-75a72a91739a.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_cb13f63b-bb2f-4980-89d6-b2db423571c4.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_e5f999c6-71b9-4be7-96f4-122c165d59cd.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_17d95272-8edc-4478-b1a9-a585e81409dc.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_60ffd6a8-b925-4d50-8a7a-2a8deb37283c.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_91cc7b43-a6c2-4991-b532-0e7f47d0df55.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_54dc3017-6836-4dce-8c80-4ba9bd03099d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_2e0c73ce-138e-4589-800b-c2d3d387548a.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_519a66a5-7ca3-4146-a177-d5b9ae41115a.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_7fce4a95-7a03-4789-9d20-bdb62230c051.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_d46a2285-c8cc-4ec8-9b4b-bd9b12aab5b7.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_aaa5497e-1f6b-4067-9102-c026027987b4.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_b37621c8-135f-4b4c-81c1-8ae755287eff.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_42ca822b-e9e3-4d18-8c85-503e10eaf32b.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_ad116c5e-a403-4766-a9b9-b38bc9acbe70.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_13bcb8e2-af4f-45ad-8bc9-cffa1eba48d7.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - f9544effad178100be92f74d81ff60bf_a19e43b8-22cb-40cd-b2d3-a45dd2aaaa71.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_f4816791-9a34-4ead-9b31-f1e3161aa002.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_86e2ca75-703b-4045-b504-e70633f375d1.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_61a615b2-64dc-442c-b1b1-8bba27defffc.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_c99e7927-e54a-4e88-ac88-532392f79365.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_7cf8a5d5-c469-4139-81f9-eaf8a0f54af7.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_b5026a37-b097-4095-9ff5-1bd21e4a485d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_3e25dd91-8b70-4ec5-8bf2-1399720930f6.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_325935ff-97fc-4a3a-8e13-5f322dfe7b70.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_b8778a49-878e-4dba-9ace-3e68197cfe47.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_b3108988-da0d-42a7-91fd-4144fdb97a2a.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_894024d7-80ed-4b25-bb1d-6a49d7dbe435.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_67320a1d-364e-4f78-85ef-e5e929746f8c.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_2abcd9c2-5954-42b1-85cd-8d3ced9a90a2.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_ff2e9467-92a1-4a70-9236-561e41a61e1e.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_6f1733ee-a992-4c86-b1f1-2db2745c0600.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_0a9867da-5a78-4dce-b79e-50a579072478.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_1137f5e8-17e9-4f8d-b72b-a340ebe1319b.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_824b7674-7e87-4186-90a8-179d50e07d3b.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_153532c9-f89c-4592-992f-6f614177e840.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_c1dd2928-1642-4939-b822-7c25df5b5361.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_882430d0-6f80-4064-95a8-f9838e2c3115.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_7f9df62f-66b9-48bf-bb0a-a2ef0301c826.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_f1492a45-c7fb-40db-9a1d-a9da19109d10.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_a7502b1c-f6cd-44fb-bc63-657ca63a2974.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_232be5cd-be94-4ee4-b5a9-cba32605b6b8.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_31719cf8-0629-41b7-b2a8-5174bb299b14.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_9a7fc925-d2c4-4008-964c-0a2164f077f9.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_a419c2e7-9f23-40c0-8e13-8d7f63a88126.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_e515826b-0f3d-460f-b662-b2c9bfb09ef5.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_77d2c735-2412-41e6-b335-1715cbe40ec5.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_955925a7-1fcd-4325-a42f-cd38806555a2.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_f0e9cb14-dfcd-4944-9574-5d260760554c.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_f0f0a8e1-4a0b-4c7d-94cf-cae676015429.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_477a5a5f-b5cb-45cf-b09f-4385dd7c9e7c.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_eadc5bdc-4ca3-4ed0-b15e-208d26b1b745.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_6a58378e-86fc-4399-9760-2082278526bc.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_e5c13f85-c4e9-40a6-9a1a-0ae38acf00ae.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_57153e49-3bce-41a2-97de-1b5b8a8cd276.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_c732bdc0-cb60-4e66-a2e6-04274b20e5c0.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_4bfba3fb-7b6f-490b-905e-0402812515ee.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_994d39c4-6645-4db7-8d2c-943eecd8b49d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_1c455fa9-8f6a-4e92-83d2-0f1aa78b22b0.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_0f080628-2140-4e02-81a6-d9ac17f7d94c.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_aa2f32dc-6047-49ad-b4c5-a573a1aa9ca8.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_7d8dab0a-ac99-4efc-9f07-59f9eec9d181.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_31b06d64-8aff-4777-a0f4-b47b4ae12282.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_14105e57-ec44-4caf-93ed-b9dff8719a85.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_e3dbb333-63ad-4a3f-aaf6-012740094615.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_1e5de968-323c-4957-8672-3f8f01cc2cfd.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - dc5c91c8c01b1c8c506c648223cdabe9_b4c32ce0-ddf4-4c33-acc0-243e2632d4ab.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_e842c3bc-bbd5-46ae-82df-81757ab39621.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_3302df65-f3a3-4b12-875e-c00074167d80.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_c48b981b-208a-4250-ae87-d189b4902c4f.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_4fcbe247-a27b-43c9-bc60-6f33a5a73c1f.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_847f965c-7c15-4d0c-9cd4-88b8842fc159.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_b1b201dc-3f42-4fed-8031-9776a874ee9b.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_f06486aa-e71a-47b0-afbb-7468f97c6f8c.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_fb8b0ef2-ec71-41b8-9c6f-ed921841d208.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_89919537-1a44-4545-87cd-e84084bc9b70.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_910e1632-60d7-4fcf-8e6b-c6c2d47c37cc.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_e252470d-416a-42c1-b3bd-a67ea28a7693.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_098859a8-0972-4192-b7c9-6a45e1910640.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_538fd48e-abe4-4792-85e9-4e0bd0f3ab3b.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_04020ef0-8837-4289-9b2f-0e671f37b90a.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_f8803d2c-7e63-43aa-901e-e5d1414d62ff.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_721b3c3e-c393-49b3-9a88-cf2bdf460d80.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_d2f05076-465b-4a6b-a7b5-a2422935cadf.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_c864ec9f-687e-4222-ac4c-8f87c684ff54.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_90af1ddf-7203-476f-9698-5c8ab70de065.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_a70ffa53-6812-473e-b6fe-17376fb7fe7d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_19953f13-3a4e-4cc6-9ee3-7ad7bfa4a1c4.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_49e6db8a-ed10-4089-b6ed-7d83bcbd8735.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_ee0955ee-a773-49cc-a2d8-b42756ed0d6a.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_6bc22359-91cb-4480-9deb-ef41f407d554.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_87b7de4d-f909-4f3f-abc5-040d72706e20.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_a1ef7b60-ca73-4efa-9bb5-37f947a4261b.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_878c1001-9d7b-4e2d-bb3c-f856b28bd6de.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_e588262a-255c-4cb5-bc7d-a9e95049993e.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_66aac0f3-f939-4a30-826e-27b975253799.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_f9702877-d1b9-46db-bf50-66f106431335.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_94d3aced-e650-4dc3-8446-3c0b7ea1480b.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_e95d595a-9c6c-40cd-b15b-c2850cc6ab27.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_c155028b-c4ae-4f2a-b2a1-2a65c32a46ad.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_6cf1662b-ead0-43a3-b93e-7ea5ca28b11d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_951899d8-d32f-4e79-b8ca-29e6d23568c2.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_aa07e084-93b7-4216-9d6a-6eb4bf580379.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_f1b72cc9-fdd6-4a8a-968e-439f8a2a6cae.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_129555cd-8a68-47ad-a095-5b272b5dedc0.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_5a606c5a-8875-4d1c-b1ab-8fab932b9f0d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_4654afd5-7e66-46ce-9acc-cf62777394d1.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_ae557f00-44b3-4531-99e1-46186f05176e.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_e813a428-46e5-4cac-a6b7-d9ba5754695a.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_d80da255-5838-4af8-a806-2cc3a8f14f40.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_be7e7b18-fc31-47fe-81be-5860d98de899.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_5438daec-cbdc-445b-b3e7-262da64c1ccb.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_977e7a20-4038-4ac2-9d1f-926c6c5468cb.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_5baf43d6-fd56-4437-85b7-fd5951f873bd.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_f41c2c9f-0bee-4990-a798-c50c97d66621.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_dee280c9-4f7c-4712-98a1-ad3b48a64929.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - c75ebd7c340649ba5ad304c2564ae1df_4757bc41-bce3-4f4c-8170-b00af00245ea.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_b86e39bf-e37f-4ea2-ae01-a7dc5b260a2b.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_e549d22d-722e-4b75-879e-ee8f5088e7fe.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_5893534b-47d1-49d6-a042-797c8bb3cd68.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_a3eb22d8-29c9-46d1-ae6b-afbbbe511a29.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_617b7c43-3b2b-40fc-ab6a-c828e5a56963.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_ea761dac-70d8-4720-a17f-c6ced0da5ea0.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_3a58082b-b318-4425-a141-6ec82b265399.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_5c081f60-2aa2-4e30-9b10-5af29f57c318.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_cf9e5786-9208-49f3-be2f-d718a750b641.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_b9c50d0e-9bbb-4ae7-b604-23ee970dbada.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_96f21101-491b-435b-91c8-74c187066b38.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_5d3046ed-ff54-43f7-939a-7ca1dbecbe16.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_3c3abf7a-332d-47c9-8766-7e214f5d3be7.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_c5ddc789-b461-41ee-9125-60842aedced3.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_ce78672f-9fad-4a12-9642-9f5d97093021.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_513c607a-d6c2-40c6-b6d8-45a2ea603c21.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_c00856ce-f51e-4146-9df4-0eee021733ea.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_403bb437-7b80-4280-b7ec-1c99bea8e7bf.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_48306cae-d653-493d-b2b1-70fd77dc66c5.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_c3e75095-5cdf-4cae-ba5e-1510909619fd.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_33710678-2e59-4bd2-841a-5553fe7364cb.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_43a37811-7727-4d31-81e5-e4e0d6815029.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_3454db44-9298-43e4-810a-af9c60e0d461.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_e98019d1-d946-4ab9-ae74-510f3f482194.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_4879e5b8-41dc-4479-a4bd-d2edd6d8f53d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_76c4bfa9-04ea-4f90-a0e7-db291dd8b1df.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_e5142ec8-8f16-48d4-9cf5-5a9a6ae7a1df.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_405c0d1f-aa8c-4dfd-9581-2f4379031bc0.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_95fee664-099d-494f-a8c3-6f594268a07c.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_333c8d1d-f147-40aa-8fb8-a565d4958921.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_9f45ea62-c72b-4527-8d97-49292aef935d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_8c51b6e7-d5fa-4d05-acaf-764cf6692850.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_cf9d221f-a3e2-42f1-8825-6fb14e220271.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_e877530f-2d3e-421b-826c-0933c2272a30.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_54c98a6c-6092-4ebd-a411-cb015b8dde21.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_bf503f54-1c80-423c-8989-4fe810723f83.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_cef202ec-a657-4f73-8dcd-b539ce630214.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_aa60f694-d75f-4ccf-be98-4b06cda2584b.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_386efeb2-d24a-4cc8-9722-bf6b8c0abf46.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_d8de7ee6-3564-44dd-b576-7f8749b3cc5a.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_f2434914-2a4f-436d-b17f-93c3faece889.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_e9965578-7904-4fa1-a05a-8ee39dab6511.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_d76a6a84-64bc-4649-97d2-f7eeb2f2f49e.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_f3e723e6-8215-4b26-a181-2630880c4683.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_4b05a936-0e50-4224-9e56-925d857850a0.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_582e96b2-0341-4b63-8e61-bbaa83c87610.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_a96474dd-ab62-4e51-8c7f-458e20dc251f.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_b1426a0b-b67a-4aa1-9990-950af3890e92.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_84a4f602-8fed-4d74-8e39-7990c771435c.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 6d83dea57df3c4a3500158c23c4c5a8e_f01e432d-c0ed-4d5a-8e5e-2b9b41d6922c.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_7624c7b5-7093-49ab-aced-4ced67b50faf.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_865dfa49-8806-4960-af10-d097bd2beaa9.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_80fd078d-bdd7-4223-9424-701729fe9373.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_b697b3b8-f43e-4323-bb71-794b2c022cb3.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_e17e86eb-32d0-4f9f-b5b8-5aeef63cfb1c.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_55dbaf15-bfed-482b-b46f-2df42673bca9.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_93b874b2-14c4-42c0-9f10-a273f87f842d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_894537d8-9afc-4fd1-91ec-41bfb4205761.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_595ccee6-b451-47c2-8958-502ce51de36f.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_759b75f5-dddd-4e16-8bea-4db7139e42fc.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_4a9841d8-2893-4bc5-a091-92461342b61f.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_20a64875-ccff-4fea-9618-cbf9ce45dbfd.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_43dfb15a-dff7-4e86-b96b-d29e3613f144.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_d3c39d81-450a-4b8e-848f-3c563bf52b0a.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_720540ad-6be7-47fa-949b-9e8b00b59ebb.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_a9bbd453-1bb3-4df1-98dd-37b84f841701.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_b0750f6b-6c70-488a-9c6e-5915efecbef4.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_7b059faa-3240-4c19-b67e-e45c6cf180ae.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_f1e4a2e1-a2fa-4b5f-885d-63f06ee32ffc.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_8048b91c-e89a-472d-83ae-d560ab0678d2.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_18af1a1b-d270-4719-bd52-e6c655d91757.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_d7f9dfad-265c-41c5-aa0a-25223fe632fb.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_17500e02-d77b-42b4-a2a3-264a8b3ec9f6.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_00580a9a-d88d-489a-8946-f6d9d27ca76a.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_d819a71e-18c1-43b5-b5ef-123f99bd97fc.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_4629db26-42c1-4a00-9132-fc9d3e391d98.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_a277e7d5-7e5c-4845-8c94-c8f70a64cfe4.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_403fd9e9-2b38-472c-9d98-8838aea61d41.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_de7d5d4d-61b8-4f89-ad98-43fbcb19dde4.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_0ff2f086-43bf-414f-af0b-b8371c9068bd.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_4c7be846-15ba-4609-a056-d85de5f795b1.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_ff28cd9d-3d8d-4bf8-bff6-829777488187.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_6baf2ea0-70cb-41a3-a5b5-350d67190bcd.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_2c58d929-af13-4b40-8f52-f6375b95d2c9.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_d762dc93-f3d3-4a63-9438-7ece1649569d.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_57e7f786-e8d2-4b65-afb4-ff7802926910.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_9b70c456-f7be-491a-8394-36b9d1a422bb.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_05f72c73-3ed7-41ed-8ffa-622356fae383.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_225c75c1-95a1-492e-826c-973b828fee8e.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_85c2a3a6-c2c3-4623-8bb6-ef21cc81c60c.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_44ffda17-6bad-4c9a-b5f1-f525e80a1212.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_08430cf2-5704-49e5-b010-800e3a7b7637.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_b189f927-291b-42f8-a2c7-e8de05528315.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_5b5753a2-9942-40ff-9a53-a727d52cea35.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_540e31e9-9093-4beb-9d36-03bd6d03f4bd.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_9e4ffd05-a97c-40d9-8eae-0b17542ee127.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_2418205b-e821-4902-96b4-a5f80f704fc4.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_f77c7752-197a-4285-bd57-19f4c5e1ffcb.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_b1e906a2-18e7-4538-963a-3d01a242a4c1.pickle.zstd
+- !!python/object/apply:pathlib.PosixPath
+  - data
+  - arti_recon
+  - shape_pretraining_datasets
+  - full_10_03_22_50_v2
+  - 42aac49442bb9f8bb4e3935c6cee4b35_d2d9aec1-a46b-4b68-8628-4030598ef7c4.pickle.zstd
+val: []
