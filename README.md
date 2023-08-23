@@ -32,7 +32,6 @@ The code was developed and tested under Ubuntu 20.04 and python version 3.8.
 Using `conda` setup a new python environment
 
 ```[bash]
-sudo apt-get install -y ... TODO?
 conda create --name CARTO python=3.8 -y
 conda activate CARTO
 ```
@@ -47,6 +46,8 @@ pip install -e .
 ```
 
 *We observed that for newer versions of OpenCV `PyOpenGL-accelerate` is automatically installed. `PyOpenGL-accelerate` could cause problems and we recommend uninstalling it again.*  
+
+*It can happen that building `Pytorch3D` fails, in that case we kindly refer to their [installation guide](https://github.com/facebookresearch/pytorch3d/blob/main/INSTALL.md).*
 
 Last, install all external libraries needed
 
