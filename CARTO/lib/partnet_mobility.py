@@ -30,9 +30,13 @@ class PartNetMobilityV0:
         / "datasets/partnet-mobility-v0",
     ):
         self.root_path = root_path
-        self.index: List[Dict[Any, Any]] = read_compressed_json(
-            self.root_path / "index.json.zst"
-        )
+        try:
+            self.index: List[Dict[Any, Any]] = read_compressed_json(
+                self.root_path / "index.json.zst"
+            )
+        except:
+            print(f"WARNING: {self.root_path / 'index.json.zst'} was not found, empty PartNetMobility Database!")
+            self.index = []
         self.id_index: Dict[str, Any] = {meta["model_id"]: meta for meta in self.index}
         self._cache: Dict[Any, Any] = {}
         self._filter: Callable[[Dict[Any, Any]], bool] = lambda _: True
